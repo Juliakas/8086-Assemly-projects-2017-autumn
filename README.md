@@ -1,7 +1,7 @@
 # 8086 Assemly projects (2017 autumn)
-University related projects written in assembly language. A range of simple tasks and one disassembly project
+University related projects written in assembly language. A range of simple tasks and one disassembly project. Program variable names and comments are mixed Lithuanian and English.
 
-## Skills aquired after working with assembly tasks:
+## Skills acquired after working with assembly tasks:
 
 - Base knowledge of how computers operate.
 - Understanding specifics of how memory and registers operate.
